@@ -21,5 +21,5 @@ This turns the terminal from powershell to the relevant language. PHP for the fi
 
 ## Other Notes
 
-* First time going over this I am just going to follow the steps. - [x]
-* Second time going over this I am going to add the additional "lightbulb" suggestions to enhance the project. - [ ]
+* [x] First time going over this I am just going to follow the steps.
+* [ ] Second time going over this I am going to add the additional "lightbulb" suggestions to enhance the project.
