@@ -23,7 +23,7 @@ Route::middleware('auth')->group(function () {
 });
 
 Route::resource('chirps', ChirpController::class)
-  ->only(['index', 'store', 'edit', 'update'])
+  ->only(['index', 'store', 'edit', 'update', 'destroy'])
   ->middleware(['auth', 'verified']);
 
 // Include additional routes from auth.php (login, registration, password reset, etc). Provided by Laravel Breeze.
