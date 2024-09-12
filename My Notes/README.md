@@ -8,6 +8,11 @@
   * To start the server on localhost
 * `npm run dev`
   * To start VITE
+* `php artisan tinker`
+  * To execute PHP code in the application.
+  * `exit` to escape from tinker.
+* `npm artisan queue:work`
+  * To start the connection between Chirper and Mailtip.
 
 This turns the terminal from powershell to the relevant language. PHP for the first command, node for the second.
 
@@ -16,5 +21,5 @@ This turns the terminal from powershell to the relevant language. PHP for the fi
 
 ## Other Notes
 
-* First time going over this I am just going to follow the steps.
-* Second time going over this I am going to add the additional "lightbulb" suggestions to enhance the project.
+* First time going over this I am just going to follow the steps. - [x]
+* Second time going over this I am going to add the additional "lightbulb" suggestions to enhance the project. - [ ]
